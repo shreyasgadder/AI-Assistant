@@ -1,6 +1,6 @@
 import pyttsx3 #pip3 install pyttsx3 && espeak && alsa-utils
 import datetime
-import speech_recognition as sr #pip3 install SpeechRecognition && PyAudio
+import speech_recognition as sr #pip3 install SpeechRecognition && PyAudio (install using pypwin)
 import wikipedia #pip3 install wikipedia
 import smtplib
 import webbrowser as wb 
